@@ -31,7 +31,7 @@ The repository is organized into five numbered folders, each corresponding to ke
   Constructs networks linking proteins with drug targets and disease associations based on analysis results.
 
 * `05_prot_dis_assoc/`
-  Investigates protein–disease associations, such as predictive links, enrichment, or Mendelian randomization outputs.
+  Investigates protein–disease associations, such as predictive protein biomarkers.
 
 Additional files:
 
